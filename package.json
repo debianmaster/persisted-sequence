@@ -1,0 +1,16 @@
+{
+  "name": "persisted-sequence",
+  "version": "1.0.0",
+  "description": "This module creates a persisted seqeunce number (file storage)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "sequence",
+    "number",
+    "persisted"
+  ],
+  "author": "Chakradhar Jonagam",
+  "license": "ISC"
+}
